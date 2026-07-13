@@ -1,1 +1,1 @@
-return precio * 0.90;
+return precio * 0.12;
